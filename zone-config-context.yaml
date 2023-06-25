@@ -1,0 +1,12 @@
+entry:
+- '@name': INSIDE
+  network:
+    layer3:
+      member:
+      - ethernet1/1
+      - ethernet1/2
+- '@name': OUTSIDE
+  network:
+    layer3:
+      member:
+      - ethernet1/3

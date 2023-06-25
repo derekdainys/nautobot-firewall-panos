@@ -1,0 +1,7 @@
+---
+- hostname: firewall1
+  key: xyz
+- hostname: firewall2
+  key: xyz
+- hostname: firewall3
+  key: xyz
