@@ -1,4 +1,4 @@
-# nautobot-firewall-panos
+# palo-alto-nautobot
 
 Repository for ideas behind using Nautobot as a way to manage firewall policies for Palo Alto Firewalls
 
