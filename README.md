@@ -5,7 +5,7 @@ Repository for ideas behind using Nautobot as a way to manage firewall policies 
 capirca-policy
 -------------------
 Use capirca integration in Nautobot firewall models to deploy policies
-Must specify Nautobot Server parameters via environmental variable
+Must specify Nautobot Server parameters via environmental variables
 - NAUTOBOT_SERVER - for the ip/hostname and port number used for nautobot
 - NAUTOBOT_TOKEN - the token needed to read data from nautobot
 
